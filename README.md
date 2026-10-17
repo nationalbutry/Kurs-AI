@@ -1,0 +1,2 @@
+# Kurs-AI
+Podstawy Python
